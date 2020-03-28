@@ -1,0 +1,14 @@
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\bin\Release\netcoreapp2.1\FacturacionWebApi.deps.json
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\bin\Release\netcoreapp2.1\FacturacionWebApi.runtimeconfig.json
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\bin\Release\netcoreapp2.1\FacturacionWebApi.runtimeconfig.dev.json
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\bin\Release\netcoreapp2.1\FacturacionWebApi.dll
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\bin\Release\netcoreapp2.1\FacturacionWebApi.pdb
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.csprojAssemblyReference.cache
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.RazorAssemblyInfo.cache
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.RazorAssemblyInfo.cs
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.AssemblyInfo.cs
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.dll
+C:\Users\Erick\source\repos\FacturacionWebApi\FacturacionWebApi\obj\Release\netcoreapp2.1\FacturacionWebApi.pdb
