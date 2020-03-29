@@ -18,6 +18,7 @@ namespace FacturacionWebApi.Data
         public DbSet<sucursales> Sucursales { get; set; }
         public DbSet<empleados> Empleados { get; set; }
         public DbSet<productos> Productos { get; set; }
+        public DbSet<facturas> Facturas { get; set; }
 
     }
 }
